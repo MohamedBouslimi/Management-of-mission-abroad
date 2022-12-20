@@ -1,0 +1,48 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url(/images/index.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}   
+.moi .toi a{
+margin-left: 12px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(0, 17, 113);
+border-radius: 5px 5px 5px 5px;
+ margin-top: 360px;
+ padding: 8px 8px;
+ text-decoration: none;
+ color: rgb(255, 255, 255);
+ cursor: pointer;
+ 
+    
+
+}
+.moi  {
+    margin-top: 20px;
+}
+.sabrink {
+    display:flex;
+
+} 
+.regform{ 
+    width: 800px; 
+    background-color: rgb(0, 0, 0,0.6); 
+    margin:auto; 
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;  
+    text-align: center; 
+    border-radius: 15px 15px 0px 0px; 
+    
+} 
+.main{ 
+    background-color: rgb(0, 0, 0,0.2); 
+    width: 800px;  
+    margin: auto;
+} 
+form{ 
+    padding: 10px;
+} 
+ 
+
